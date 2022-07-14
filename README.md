@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TO-DO-LIST
 
 > Description the project.
 
 
 ## Built With
+
 - HTML
 - CSS3
 - JavaScript and webpack
-
 
 ## Live Demo (if available)
 
@@ -40,18 +40,19 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Abass rashid**
 
-**Mehria-Rahmani***
-- Github: [@Merhia-Rahmani](https://github.com/Mehria-Rahmani)
-- Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
-- LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
+- GitHub: [@abazrashid](https://github.com/abass-rashid)
+- Twitter: [@abass10](https://twitter.com/abass10)
+- LinkedIn: [abazrashid](https://linkedin.com/in/abass254)
+
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Abass-rashid/To-Do-list/issues).
 
 ## Show your support
 
@@ -59,8 +60,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
-- coding partners
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
