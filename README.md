@@ -1,63 +1,42 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+Project Name
+Description the project.
 
-# TO-DO-LIST
+Built With
+HTML
+CSS3
+JavaScript and webpack
+Live Demo (if available)
+Live Demo Link
 
-> Description the project.
-> [screenshot](./assets/todo-list.png)
-
-## Built With
-
-- HTML
-- CSS3
-- JavaScript and webpack
-
-## Live Demo (if available)
-
-[Live Demo Link](https://abass-rashid.github.io/To-Do-list/dist/)
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Getting Started
+This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Prerequisites
+Setup
+Install
+Usage
+Run tests
+Deployment
+Authors
+bust_in_silhouette Author1
 
-### Setup
+Mehria-Rahmani*
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-## Authors
-
-👤 **Abass rashid**
-
-- GitHub: [@abazrashid](https://github.com/abass-rashid)
-- Twitter: [@abass10](https://twitter.com/abass10)
-- LinkedIn: [abazrashid](https://linkedin.com/in/abass254)
-
-## 🤝 Contributing
-
+Github: @Merhia-Rahmani
+Twitter: @MehriaRahmani
+LinkedIn: @mehria-rahmani
+handshake Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Abass-rashid/To-Do-list/issues).
+Feel free to check the issues page.
 
-## Show your support
+Show your support
+Give a star if you like this project!
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+Acknowledgments
+Microverse
+coding partners
+memo License
+This project is MIT licensed.
