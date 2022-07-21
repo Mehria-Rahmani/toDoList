@@ -50,9 +50,9 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author2**
 
 **markotuya0***
-- Github: @markotuya0
-- Twitter: @markotuya0
-- LinkedIn:@markotuya0
+- Github: [@markotuya0]
+- Twitter: [@markotuya0]
+- LinkedIn: [@markotuya0]
 
 ## 🤝 Contributing
 
