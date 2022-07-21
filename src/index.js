@@ -1,12 +1,12 @@
 import updateStatus from './status.js';
 import './style.css';
 import { load } from './data.js';
-import { makeContainer, makeDrageable } from './dragDrop';
+import { makeContainer, makeDrageable } from './dragDrop.js';
 import {
-  addActivity, antiShowAll, elimanateCompleteds, saveone, removeone,
+  addActivity, antiShowAll, saveone, removeone,
 } from './addEditErase.js';
 
-export let todolist = [];
+export const todolist = [];
 if (localStorage.getItem('information') === null) {
   localStorage.setItem('information', '[]');
 }
