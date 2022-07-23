@@ -18,7 +18,7 @@ document.body.innerHTML = `
 `;
 // Add and remove test
 describe('add and remove', () => {
-    window.localStorage = Storage.prototype;
+  window.localStorage = Storage.prototype;
   // Add test
   test('addion test', () => {
     const todosList = new Todos();
