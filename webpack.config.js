@@ -6,8 +6,9 @@ module.exports = {
   entry: {
     index: './src/index.js',
   },
+  devtool: 'inline-source-map',
   devServer: {
-    static: './dist',
+    contentBase: './dist',
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -26,5 +27,8 @@ module.exports = {
         use: ['style-loader', 'css-loader'],
       },
     ],
+  },
+  performance: {
+    hints: false,
   },
 };
