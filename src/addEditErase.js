@@ -8,7 +8,7 @@ export function antiShowAll(element) {
   }
 }
 
-export function elimanateCompleteds() {
+export function eliminateCompleteds() {
   const actualtodo = load();
   const result = actualtodo.filter((activity) => (activity.completed === false));
   for (let i = 0; i < result.length; i += 1) {
@@ -46,7 +46,7 @@ export function elimanateOne(element) {
 export function saveone(element) {
   const todolist = load();
   const index = element.parentNode.parentNode.id;
-  todolist[index].description = element.value;
+  todolist[index].description = element.value; 
   save(todolist);
   return todolist;
 }
@@ -54,7 +54,6 @@ export function saveone(element) {
 export function removeone(element) {
   const todolist = load();
   const index = element.parentNode.id;
-  console.log(index);
   todolist.splice(index, 1);
   save(todolist);
   return todolist;
