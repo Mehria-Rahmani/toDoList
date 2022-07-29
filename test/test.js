@@ -4,7 +4,7 @@
 import {
   addActivity,
   removeone,
-} 
+}
 
 from '../src/addEditErase.js';
 import todolist from '../src/index.js';

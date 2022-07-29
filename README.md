@@ -47,6 +47,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
 - LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
 
+👤 **Author2**
+
+**Patrick Maina***
+- Github: [@PNdunguMaina](https://github.com/PNdunguMaina)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
